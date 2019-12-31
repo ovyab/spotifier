@@ -1,5 +1,5 @@
 # Spotifier
-A small program that sorts through a user's Spotify data in JSON format (<a href="https://www.spotify.com/us/account/privacy/">which can be retrieved here</a>) and returns statistics about their listening history.
+A small program that sorts through a user's Spotify data in JSON format (<a href="https://www.spotify.com/us/account/privacy/" target="_blank">which can be retrieved here</a>) and returns statistics about their listening history.
 
 Some of Spotifier's features:
 <ul>
