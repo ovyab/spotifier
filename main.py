@@ -6,7 +6,5 @@ def main():
     file = prompt.filePrompter()
     prompt.tools(file)
     
-test = Spotifier('s.json')
+test = Spotifier('spotifyData.json')
 test.songBreakdown()
-
-# StreamingHistory.json
